@@ -5,11 +5,7 @@ S''
 p2
 sS'saveDestination'
 p3
-<<<<<<< HEAD
-S'C:\\Users\\Kenan\\Documents\\GitHub\\vgw-git-workshop\\main.tws'
-=======
 V/Users/hutchins/Documents/GitHub/vgw-git-workshop/main.tws
->>>>>>> bffe8587507e9167ff47fd2d3957d6bf00772779
 p4
 sS'metadata'
 p5
@@ -41,11 +37,7 @@ p18
 (dp20
 S'text'
 p21
-<<<<<<< HEAD
-V[[Matt|MattStart]]\u000a[[Sarina|SarinaStart]]\u000a[[Kristel|StartKristel]]
-=======
 V[[Matt|MattStart]]\u000a[[Sarina|SarinaStart]]\u000a[[Scott|ScottStart]]\u000a\u000a\u000a
->>>>>>> bffe8587507e9167ff47fd2d3957d6bf00772779
 p22
 sS'title'
 p23
@@ -59,14 +51,9 @@ p26
 ((I2018
 I4
 I19
-I15
-<<<<<<< HEAD
-I46
-I17
-=======
-I51
 I16
->>>>>>> bffe8587507e9167ff47fd2d3957d6bf00772779
+I12
+I17
 I3
 I109
 I1
@@ -206,11 +193,7 @@ Tiddler
 p70
 (dp71
 g21
-<<<<<<< HEAD
-Vsrc/matt-game.tws\u000asrc/sarina-game.tws\u000asrc/kristel-game.tws
-=======
 Vsrc/matt-game.tws\u000asrc/sarina-game.tws\u000asrc/scott-game.tws
->>>>>>> bffe8587507e9167ff47fd2d3957d6bf00772779
 p72
 sg23
 VStoryIncludes
@@ -221,13 +204,8 @@ g26
 I4
 I19
 I15
-<<<<<<< HEAD
-I46
-I29
-=======
 I44
 I12
->>>>>>> bffe8587507e9167ff47fd2d3957d6bf00772779
 I3
 I109
 I1
