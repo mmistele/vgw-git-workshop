@@ -82,7 +82,7 @@ tp36
 Rp37
 sbsa(dp38
 g14
-I01
+I00
 sg15
 (lp39
 I10
@@ -169,7 +169,7 @@ sg33
 g62
 sbsa(dp64
 g14
-I00
+I01
 sg15
 (lp65
 F262.0
@@ -180,7 +180,7 @@ Tiddler
 p66
 (dp67
 g21
-VI mean, can //you// make seared scallops?  Because I can't make seared scallops.  I don't even know how to prep scallops.\u000a\u000a[[Oh. No, I can't. | let's get pizza instead]]\u000a[[Of course I can. | you're a dirty liar]]
+VI mean, can //you// make seared scallops?  Because I can't make seared scallops.  I don't even know how to prep scallops.\u000a\u000a[[Oh. No, I can't. |let's get pizza instead]]\u000a[[Of course I can. |you're a dirty liar]]
 p68
 sg23
 VSeared scallops.
@@ -191,8 +191,8 @@ g26
 I4
 I19
 I15
-I28
-I58
+I47
+I33
 I3
 I109
 I1

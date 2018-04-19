@@ -5,7 +5,7 @@ S''
 p2
 sS'saveDestination'
 p3
-S'C:\\Users\\Sarina Wu\\Documents\\School\\Stanford\\2017_18_Junior\\Spring\\Eng190T.1\\vgw-git-workshop\\main.tws'
+S'C:\\Users\\Kenan\\Documents\\GitHub\\vgw-git-workshop\\main.tws'
 p4
 sS'metadata'
 p5
@@ -37,7 +37,7 @@ p18
 (dp20
 S'text'
 p21
-V[[Matt|MattStart]]\u000a[[Sarina|SarinaStart]]
+V[[Matt|MattStart]]\u000a[[Sarina|SarinaStart]]\u000a[[Kristel|StartKristel]]
 p22
 sS'title'
 p23
@@ -52,8 +52,8 @@ p26
 I4
 I19
 I15
-I19
-I3
+I46
+I17
 I3
 I109
 I1
@@ -182,7 +182,7 @@ tp66
 Rp67
 sbsa(dp68
 g14
-I01
+I00
 sg15
 (lp69
 I169
@@ -193,7 +193,7 @@ Tiddler
 p70
 (dp71
 g21
-Vsrc/matt-game.tws\u000asrc/sarina-game.tws
+Vsrc/matt-game.tws\u000asrc/sarina-game.tws\u000asrc/kristel-game.tws
 p72
 sg23
 VStoryIncludes
@@ -204,8 +204,8 @@ g26
 I4
 I19
 I15
-I21
-I24
+I46
+I29
 I3
 I109
 I1
