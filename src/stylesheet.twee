@@ -1,0 +1,34 @@
+﻿:: Stylesheet [stylesheet]
+/*! <<replacelink>> macro set for SugarCube 2.x */
+.revision-span-in {
+	opacity: 0;
+}
+.revision-span:not(.revision-span-out) {
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+.revision-span-out {
+	position: absolute;
+	opacity: 0;
+}
+
+/* Kristel */
+body.liar{
+	background-color: #641E16;
+}
+
+body.pizza{
+	background-color: #154360;
+}
+
+body.good{
+	background-color: #4A235A ;
+}
+
+a:hover {
+	color: #7DCEA0;
+	text-decoration: underline;
+}
+
+
+

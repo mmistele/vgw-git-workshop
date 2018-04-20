@@ -5,7 +5,7 @@ S''
 p2
 sS'saveDestination'
 p3
-S'C:\\Users\\Sarina Wu\\Documents\\School\\Stanford\\2017_18_Junior\\Spring\\Eng190T.1\\vgw-git-workshop\\src\\sarina-game.tws'
+V/Users/mattmistele/Developer/vgw-git-workshop/src/sarina-game.tws
 p4
 sS'metadata'
 p5
@@ -526,71 +526,19 @@ g14
 I00
 sg15
 (lp172
-F436.99999999999994
-aF444.2857142857142
+F136.2857142857143
+aF421.28571428571416
 asg17
 (itiddlywiki
 Tiddler
 p173
 (dp174
 g21
-V/*! <<replacelink>> macro set for SugarCube 2.x */\u000a.revision-span-in {\u000a	opacity: 0;\u000a}\u000a.revision-span:not(.revision-span-out) {\u000a	-webkit-transition: 1s;\u000a	transition: 1s;\u000a}\u000a.revision-span-out {\u000a	position: absolute;\u000a	opacity: 0;\u000a}\u000a
+V<<if def $progress>>\u000a\u000a	<<linkreplace "Look at the recipe again">><<include "Recipe">><</linkreplace>>\u000a<</if>>\u000a\u000a\u000a\u000a
 p175
 sg23
-VStylesheet
-p176
-sg25
-g26
-((I2018
-I4
-I12
-I16
-I36
-I13
-I3
-I102
-I1
-tp177
-(dp178
-tp179
-Rp180
-sg31
-(lp181
-Vstylesheet
-p182
-asg33
-g26
-((I2018
-I4
-I12
-I16
-I35
-I59
-I3
-I102
-I1
-tp183
-(dp184
-tp185
-Rp186
-sbsa(dp187
-g14
-I00
-sg15
-(lp188
-F136.2857142857143
-aF421.28571428571416
-asg17
-(itiddlywiki
-Tiddler
-p189
-(dp190
-g21
-V<<if def $progress>>\u000a\u000a	<<linkreplace "Look at the recipe again">><<include "Recipe">><</linkreplace>>\u000a<</if>>\u000a\u000a\u000a\u000a
-p191
-sg23
 VPassageFooter
-p192
+p176
 sg25
 g26
 ((I2018
@@ -602,12 +550,12 @@ I0
 I3
 I102
 I1
-tp193
-(dp194
-tp195
-Rp196
+tp177
+(dp178
+tp179
+Rp180
 sg31
-(lp197
+(lp181
 sg33
 g26
 ((I2018
@@ -619,14 +567,14 @@ I46
 I3
 I102
 I1
-tp198
-(dp199
-tp200
-Rp201
+tp182
+(dp183
+tp184
+Rp185
 sbsasS'scale'
-p202
+p186
 F1.4
 sS'snapping'
-p203
+p187
 I00
 ss.
