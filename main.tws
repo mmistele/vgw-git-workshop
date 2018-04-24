@@ -186,14 +186,14 @@ I00
 sg15
 (lp69
 I169
-aI13
+aI14
 asg17
 (itiddlywiki
 Tiddler
 p70
 (dp71
 g21
-Vsrc/matt-game.tws\u000asrc/sarina-game.tws\u000asrc/scott-game.tws\u000asrc/kristel-game.tws\u000asrc/rache-game.tws\u000asrc/maya-game.tws\u000asrc/stylesheet.twee\u000a
+Vsrc/matt-game.tws\u000asrc/sarina-game.tws\u000asrc/scott-game.tws\u000asrc/kristel-game.tws\u000asrc/rache-game.tws\u000asrc/maya-game.tws\u000asrc/stylesheet.twee
 p72
 sg23
 VStoryIncludes
@@ -203,9 +203,9 @@ g26
 ((I2018
 I4
 I24
-I13
-I45
-I26
+I14
+I12
+I39
 I1
 I114
 I1
@@ -332,10 +332,10 @@ tp111
 Rp112
 sbsa(dp113
 g14
-I00
+I01
 sg15
 (lp114
-F402.0
+F374.0
 aF10.0
 asg17
 (itiddlywiki
@@ -343,7 +343,7 @@ Tiddler
 p115
 (dp116
 g21
-V<<set $willgame=false>>\u000a<<set $mayagame=false>>\u000a<<set $sarinagame=true>>
+V<<set $willgame=false>>\u000a<<set $mayagame=false>>\u000a<<set $sarinagame=true>>\u000a\u000a<<cacheaudio "rumble" "src/rumble.mp3">>
 p117
 sg23
 VStoryInit
@@ -354,8 +354,8 @@ g26
 I4
 I24
 I14
-I6
-I32
+I14
+I54
 I1
 I114
 I1

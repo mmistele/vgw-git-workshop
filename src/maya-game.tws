@@ -27,8 +27,8 @@ I00
 sS'pos'
 p15
 (lp16
-I10
-aI10
+F10.0
+aF10.0
 asS'passage'
 p17
 (itiddlywiki
@@ -37,7 +37,7 @@ p18
 (dp20
 S'text'
 p21
-VA door has appeared on the <<print $cardinalDirections[random(4)]>> wall inside your <span style="color: blue;">house</span>.\u000a\u000aIt should open up to the outside world. It doesn't.\u000a\u000a[[Maybe it's time you find some answers.|Enter]]\u000a\u000a<<include "SetVariables">>\u000a
+VA door has appeared on the  wall inside your <span style="color: blue;">house</span>.\u000a\u000aIt should open up to the outside world. It doesn't.\u000a\u000a[[Maybe it's time you find some answers.|Enter]]\u000a\u000a\u000a<<include "SetVariables">>\u005c\u000a<<print $cardinalDirections[random(4)]>>
 p22
 sS'title'
 p23
@@ -52,8 +52,8 @@ p26
 I4
 I24
 I14
-I3
-I39
+I17
+I45
 I1
 I114
 I1
@@ -382,18 +382,18 @@ tp126
 Rp127
 sbsa(dp128
 g14
-I00
+I01
 sg15
 (lp129
-I10
-aI430
+F10.0
+aF430.0
 asg17
 (itiddlywiki
 Tiddler
 p130
 (dp131
 g21
-V<<set $rooms= ["The Spiral Staircase", "The Great Hall", "The Anteroom"]>>\u000a<<set $hallways= ["A Hallway", "A Small Room", "A Crawl Space"]>>\u000a\u000a<<set $cardinalDirections = ["north", "south", "east", "west"]>>\u000a\u000a<<set $light=48>>\u000a\u000a<<set $showheader=false>>\u000a<<set $gameover=false>>\u000a\u000a<<cacheaudio "rumble" "rumble.mp3">>\u000a\u000a<<set $mayagame=true>>
+V<<set $rooms= ["The Spiral Staircase", "The Great Hall", "The Anteroom"]>>\u000a<<set $hallways= ["A Hallway", "A Small Room", "A Crawl Space"]>>\u000a\u000a<<set $cardinalDirections = ["north", "south", "east", "west"]>>\u000a\u000a<<set $light=48>>\u000a\u000a<<set $showheader=false>>\u000a<<set $gameover=false>>\u000a\u000a<<set $mayagame=true>>
 p132
 sg23
 VSetVariables
@@ -403,9 +403,9 @@ g26
 ((I2018
 I4
 I24
-I13
-I59
-I51
+I14
+I14
+I48
 I1
 I114
 I1
